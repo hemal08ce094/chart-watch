@@ -1,0 +1,10740 @@
+{
+ "Instagram Feed": {
+  "us": {
+   "ec": "false",
+   "chart": [
+    "11",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": [
+    "34",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": [
+    "9",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": [
+    "31",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": [
+    "23",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": [
+    "13",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": [
+    "38",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": [
+    "46",
+    "R\u00e9seaux sociaux",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": [
+    "16",
+    "Social network",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": [
+    "22",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": [
+    "26",
+    "Sociaal netwerken",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": [
+    "21",
+    "Sociala n\u00e4tverk",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": [
+    "39",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": [
+    "28",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": [
+    "54",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": [
+    "28",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": [
+    "27",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": [
+    "39",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": [
+    "17",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": [
+    "13",
+    "Redes sociais",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": [
+    "24",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": [
+    "23",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": [
+    "42",
+    "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": [
+    "55",
+    "\u30bd\u30fc\u30b7\u30e3\u30eb\u30cd\u30c3\u30c8\u30ef\u30fc\u30ad\u30f3\u30b0",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": [
+    "16",
+    "\uc18c\uc15c \ub124\ud2b8\uc6cc\ud0b9",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": [
+    "41",
+    "\u793e\u4ea4",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": [
+    "10",
+    "\u793e\u4ea4",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": [
+    "25",
+    "\u793e\u4ea4\u7db2\u7d61",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": [
+    "18",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": [
+    "43",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": [
+    "13",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": [
+    "34",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": [
+    "17",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": [
+    "19",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": [
+    "44",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": [
+    "15",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": [
+    "45",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": [
+    "6",
+    "Redes sociais",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": [
+    "5",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": [
+    "14",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": [
+    "22",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Overhead: Plane Tracker & ISS": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Watch Instagram": {
+  "us": {
+   "ec": "false",
+   "chart": [
+    "93",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": [
+    "48",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": [
+    "53",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": [
+    "62",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": [
+    "15",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": [
+    "29",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": [
+    "29",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": [
+    "31",
+    "R\u00e9seaux sociaux",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": [
+    "21",
+    "Social network",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": [
+    "7",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": [
+    "38",
+    "Sociaal netwerken",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": [
+    "43",
+    "Sociala n\u00e4tverk",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": [
+    "76",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": [
+    "53",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": [
+    "55",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": [
+    "34",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": [
+    "18",
+    "Soziale Netze",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": [
+    "32",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": [
+    "42",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": [
+    "12",
+    "Redes sociais",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": [
+    "10",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": [
+    "7",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": [
+    "37",
+    "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": [
+    "6",
+    "\u30bd\u30fc\u30b7\u30e3\u30eb\u30cd\u30c3\u30c8\u30ef\u30fc\u30ad\u30f3\u30b0",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": [
+    "20",
+    "\uc18c\uc15c \ub124\ud2b8\uc6cc\ud0b9",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": [
+    "70",
+    "\u793e\u4ea4",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": [
+    "32",
+    "\u793e\u4ea4",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": [
+    "27",
+    "\u793e\u4ea4\u7db2\u7d61",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": [
+    "59",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": [
+    "19",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": [
+    "39",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": [
+    "19",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": [
+    "25",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": [
+    "29",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": [
+    "45",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": [
+    "11",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": [
+    "25",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": [
+    "23",
+    "Redes sociais",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": [
+    "12",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": [
+    "45",
+    "Redes sociales",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": [
+    "51",
+    "Social Networking",
+    "6005",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Keyboard Clipboard: Snippets": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Watch Reader: Web & Articles": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Watch Web Browser": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": [
+    "60",
+    "\u4ed5\u4e8b\u52b9\u7387\u5316",
+    "6007",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": [
+    "168",
+    "\uc0dd\uc0b0\uc131",
+    "6007",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": [
+    "119",
+    "\u6548\u7387",
+    "6007",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": [
+    "134",
+    "\u751f\u7522\u529b\u5de5\u5177",
+    "6007",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": [
+    "107",
+    "Productivity",
+    "6007",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Truth or Dare: Watch Party": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Truegauge: Phone Temperature": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "TikTocToe: Tic Tac Toe": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Loud Alarm Clock: Actually Up": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Math Dash: Kid-Friendly Games": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Stack: Block Puzzle for Watch": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Fullbleed: Full Width Safari": {
+  "us": {
+   "ec": "false",
+   "chart": [
+    "188",
+    "Utilities",
+    "6002",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": [
+    "145",
+    "Utilities",
+    "6002",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": [
+    "67",
+    "\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3",
+    "6002",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": [
+    "33",
+    "\uc720\ud2f8\ub9ac\ud2f0",
+    "6002",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Watch Browser": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Tabletop: Mac Remote Desktop": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "UI Components Playground": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Credit Card Generator: Test": {
+  "us": {
+   "ec": "false",
+   "chart": [
+    "105",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": [
+    "177",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": [
+    "87",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": [
+    "74",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": [
+    "143",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": [
+    "99",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": [
+    "72",
+    "Entwickler-Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": [
+    "87",
+    "Outils de d\u00e9veloppement",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": [
+    "93",
+    "Sviluppatori",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": [
+    "78",
+    "Para desarrolladores",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": [
+    "109",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": [
+    "68",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": [
+    "75",
+    "Ferramentas de programa\u00e7\u00e3o",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": [
+    "77",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": [
+    "59",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": [
+    "123",
+    "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u043c",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": [
+    "160",
+    "\u8f6f\u4ef6\u5f00\u53d1\u5de5\u5177",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": [
+    "85",
+    "\u958b\u767c\u8005\u5de5\u5177",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": [
+    "100",
+    "\u958b\u767c\u4eba\u54e1\u5de5\u5177",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": [
+    "96",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": [
+    "52",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": [
+    "126",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": [
+    "76",
+    "Developer Tools",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": [
+    "130",
+    "Para desenvolvedores",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": [
+    "57",
+    "Para desarrolladores",
+    "6026",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "SwiftyTerminal: Terminal Shell": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Dubai Gratuity Calculator": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Watch Calculator: Tip & Units": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Cocktail Sip: Mixology & Bar": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Lid Up: Fold & Tilt Animation": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Notes+ for Watch: Remind Me": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Head Games: Hands-Free Arcade": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "AI Story Buddy": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Foldlings: Alchemy Merge Game": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Lumi: Period & Ovulation": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Liquid Puzzle: Kids Spelling": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "WatchCrypto": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": [
+    "168",
+    "Finance",
+    "6015",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": [
+    "156",
+    "\uae08\uc735",
+    "6015",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Brick Breaker: Watch Arcade": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Beat-Saber": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Fountain Pen Ink Journal": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Scentful: Fragrance Wardrobe": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": [
+    "15",
+    "\u041e\u0431\u0440\u0430\u0437 \u0436\u0438\u0437\u043d\u0438",
+    "6012",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Hanuman Chalisa: Watch Audio": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Maze Dash: Watch Arcade": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "WatchRetro: Watch Games Arcade": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "na": true
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Water Eject: Volume Booster": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Gratuity Calculator: UAE": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Paste : Copy keyboard": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": [
+    "175",
+    "Business",
+    "6000",
+    "top-paid"
+   ],
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Tallyline: Pickleball & Padel": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ },
+ "Glovework: Boxing Round Timer": {
+  "us": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "gb": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ca": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "au": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "in": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ae": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "de": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "it": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "es": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "se": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "no": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "dk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "fi": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ch": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "at": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "be": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ie": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pt": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "pl": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ru": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "jp": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "kr": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "cn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "tw": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "hk": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sg": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "my": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "th": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "id": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ph": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "vn": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "sa": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "il": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "za": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "br": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "mx": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "ar": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  },
+  "nz": {
+   "ec": "false",
+   "chart": null,
+   "featuredIn": null,
+   "ecShelf": null
+  }
+ }
+}

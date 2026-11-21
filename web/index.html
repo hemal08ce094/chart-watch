@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chart Watch</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <header class="top">
+      <div>
+        <h1>Chart Watch</h1>
+        <p class="sub" id="dev">Loading your apps…</p>
+      </div>
+      <div class="live" aria-live="polite"><span class="dot" id="dot"></span><span id="scan">Connecting to the local server…</span></div>
+    </header>
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+
+    <div id="banner"></div>
+
+    <div class="stats" id="stats">
+      <div class="stat"><b>–</b><span>Apps on a chart</span></div>
+      <div class="stat"><b>–</b><span>Chart placements</span></div>
+      <div class="stat"><b>–</b><span>Best position</span></div>
+      <div class="stat"><b>–</b><span>Featured by Apple</span></div>
+    </div>
+
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Platform" id="platforms"></div>
+      <div class="seg" role="group" aria-label="Chart" id="charts">
+        <button data-v="all" aria-pressed="true">Paid + Free</button>
+        <button data-v="top-paid" aria-pressed="false">Paid</button>
+        <button data-v="top-free" aria-pressed="false">Free</button>
+      </div>
+      <label class="inline">Storefront <select id="store"><option value="all">All storefronts</option></select></label>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="width:28px"></th>
+          <th>App</th>
+          <th class="r">Best</th>
+          <th class="hide-sm">Where</th>
+          <th class="hide-sm">By platform</th>
+          <th class="r">Charts</th>
+          <th class="r">Move</th>
+        </tr>
+      </thead>
+      <tbody id="rows"><tr><td colspan="7" class="empty">Loading the latest scan…</td></tr></tbody>
+    </table>
+
+    <section>
+      <h2>Featuring</h2>
+      <div id="featuring"><p class="feature-note">Waiting for the first check…</p></div>
+    </section>
+
+    <section>
+      <details id="quiet"><summary>Apps not on any chart in this view</summary><ul class="quiet-list" id="quiet-list"></ul></details>
+    </section>
+
+    <footer class="foot">
+      Ranks come from Apple's public top charts (Paid and Free, top 200 per category, plus the overall chart) for iPhone, iPad, Apple Watch, Mac and Apple Vision Pro.
+      “Move” compares with the previous check of the same chart. Compact view: <a href="widget.html">widget</a>
+    </footer>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

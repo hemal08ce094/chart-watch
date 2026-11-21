@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chart Watch widget</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body { display: grid; place-items: start center; min-height: 100vh; padding: 16px; }
+    .w { width: 100%; max-width: 360px; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 16px 16px 12px; box-shadow: 0 1px 3px rgb(0 0 0 / .06); }
+    .w-head { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--ink-2); font-weight: 600; }
+    .w-head a { color: inherit; text-decoration: none; }
+    .w-big { margin: 10px 0 2px; font-size: 34px; line-height: 1; font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+    .w-big small { font-size: 15px; font-weight: 500; color: var(--ink-3); letter-spacing: 0; }
+    .w-cap { color: var(--ink-2); font-size: 13px; }
+    .w-plats { display: grid; grid-template-columns: repeat(5, 1fr); margin: 14px 0 10px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .w-plats div { padding: 8px 0; text-align: center; }
+    .w-plats div + div { border-left: 1px solid var(--line); }
+    .w-plats b { display: block; font-size: 17px; font-variant-numeric: tabular-nums; }
+    .w-plats span { font-size: 11px; color: var(--ink-2); }
+    .w-plats .zero b { color: var(--ink-3); font-weight: 500; }
+    .w-list { list-style: none; margin: 0; padding: 0; }
+    .w-list li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: center; padding: 6px 0; }
+    .w-list img { width: 28px; height: 28px; border-radius: 7px; border: 1px solid var(--line); }
+    .w-list .t { min-width: 0; }
+    .w-list .t div:first-child { font-weight: 600; font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .w-list .t div:last-child { font-size: 11.5px; color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .w-list .r { text-align: right; font-variant-numeric: tabular-nums; }
+    .w-list .r b { font-size: 16px; display: block; }
+    .w-foot { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--ink-2); display: flex; gap: 6px; align-items: center; }
+    .w-foot .f { margin-left: auto; white-space: nowrap; }
+    .w-foot .f.gold { color: var(--gold); font-weight: 600; }
+    .w-msg { padding: 18px 0; color: var(--ink-2); font-size: 13px; }
+  </style>
+</head>
+<body>
+  <article class="w" aria-label="Chart Watch summary">
+    <div class="w-head"><a href="./">CHART WATCH</a><span class="dot" id="dot" aria-hidden="true"></span></div>
+    <div id="body"><p class="w-msg">Loading the latest scan…</p></div>
+    <div class="w-foot"><span id="status" aria-live="polite">Connecting…</span><span class="f" id="feat"></span></div>
+  </article>
+  <script type="module">
+    import { PLATFORM_LABEL, CHART_LABEL, flag, fetchStatus, placements, movement, featured, ago, esc, scannerLine } from "./common.js";
+    const $ = (id) => document.getElementById(id);
+    let data = null;
+
+    function render() {
+      const all = placements(data);
+      const total = Object.keys(data.apps).length;
+      const apps = new Set(all.map((p) => p.aid));
+      const per = Object.fromEntries(data.platforms.map((k) => [k, new Set(all.filter((p) => p.platform === k).map((p) => p.aid)).size]));
+      const best = [];
+      const seen = new Set();
+      for (const p of all) { if (!seen.has(p.aid)) { seen.add(p.aid); best.push(p); } if (best.length === 4) break; }
+      const mv = (p) => { const m = movement(p); return m.kind === "up" ? `<span class="mv up">▲ ${m.d}</span>` : m.kind === "down" ? `<span class="mv down">▼ ${m.d}</span>` : m.kind === "new" ? `<span class="mv new">New</span>` : (m.kind === "first" ? "" : `<span class="mv same">–</span>`); };
+      $("body").innerHTML = `
+        <div class="w-big">${apps.size}<small> of ${total} apps</small></div>
+        <div class="w-cap">on a top chart in ${new Set(all.map((p) => p.cc)).size} storefronts</div>
+        <div class="w-plats">${data.platforms.map((k) => `<div class="${per[k] ? "" : "zero"}"><b>${per[k]}</b><span>${PLATFORM_LABEL[k]}</span></div>`).join("")}</div>
+        ${best.length ? `<ul class="w-list">${best.map((p) => `
+          <li><img src="${esc(p.app.icon)}" alt=""><div class="t"><div>${esc(p.app.name)}</div><div>${flag(p.cc)} ${p.cc.toUpperCase()} · ${PLATFORM_LABEL[p.platform]} ${CHART_LABEL[p.chart]} · ${esc(p.scope === "overall" ? "Overall" : p.app.genre)}</div></div>
+          <div class="r"><b>#${p.rank}</b>${mv(p)}</div></li>`).join("")}</ul>`
+          : `<p class="w-msg">No chart positions yet. The scanner fills this in as it reads each chart.</p>`}`;
+      const feats = featured(data);
+      $("feat").className = "f" + (feats.length ? " gold" : "");
+      $("feat").textContent = feats.length ? `★ Featured: ${new Set(feats.map((f) => f.aid)).size}` : "Not featured yet";
+      live();
+    }
+    function live() {
+      const sc = data.scanner;
+      $("dot").className = "dot " + (sc.status === "error" ? "err" : sc.backoffSeconds > 0 ? "warn" : sc.status === "scanning" ? "on" : "");
+      $("status").textContent = sc.status === "scanning" ? `Scanning · ${Math.round((100 * sc.done) / (sc.total || 1))}%` : scannerLine(sc);
+    }
+    async function tick() {
+      try { data = await fetchStatus(); render(); }
+      catch { $("dot").className = "dot err"; $("status").textContent = data ? "Server offline · showing last data" : "Couldn't load the data"; }
+      setTimeout(tick, 15000);
+    }
+    tick();
+  </script>
+</body>
+</html>
