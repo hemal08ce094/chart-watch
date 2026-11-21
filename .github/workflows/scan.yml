@@ -18,9 +18,6 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 110
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -43,11 +40,22 @@ jobs:
           for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
           exit 1
 
+  # Publishes the dashboard to GitHub Pages. Runs only once Pages is turned on
+  # (Settings → Pages → Source: GitHub Actions) and the repo variable PAGES_ENABLED is "true".
+  publish:
+    needs: scan
+    if: vars.PAGES_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/configure-pages@v5
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
-
       - id: deploy
         uses: actions/deploy-pages@v4
