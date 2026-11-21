@@ -40,12 +40,14 @@ jobs:
           for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
           exit 1
 
-  # Publishes the dashboard to GitHub Pages. Runs only once Pages is turned on
-  # (Settings → Pages → Source: GitHub Actions) and the repo variable PAGES_ENABLED is "true".
+  # Publishes the dashboard to GitHub Pages when the repo variable PAGES_ENABLED is "true".
   publish:
     needs: scan
     if: vars.PAGES_ENABLED == 'true'
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
